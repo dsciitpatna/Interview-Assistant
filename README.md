@@ -7,7 +7,7 @@ We can identify what the person is trying to convey by looking at their facial e
 The project focuses on making a facial emotion detection interview assistant that keeps track of the person in scope's attention and 
 
 ## Impact
-This project will help a student to guide them to enhance their interview skills and a company to take judge the preformance of an interviewee. 
+This project will help a student to guide them to enhance their interview skills and a company to judge the preformance of an interviewee. 
 
 ## Pre-requisites
 ### Knowledge Pre-requisits
