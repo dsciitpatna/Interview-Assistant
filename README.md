@@ -27,10 +27,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 Gitter - [https://gitter.im/dsciitpatna/Interview-Assistant](https://gitter.im/dsciitpatna/Interview-Assistant)
 
 ## Authors
-* **Anubhav Jangra** - Project Lead
-* **Piyush Tiwari** - Mentor
-* **Rahul Grover** - Mentor
-* **Shreyas Gedkar** - Mentor
+* **Anubhav Jangra**(https://github.com/love-san) - Project Lead
+* **[Piyush Tiwary]**(https://github.com/aquarius31) - Mentor
+* **[Badrinath Reddy]**(https://github.com/badrinath-reddy) - Mentor
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
