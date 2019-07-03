@@ -24,7 +24,7 @@ This project will help a student to guide them to enhance their interview skills
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Project Communication Channels
-Gitter - [https://gitter.im/dsciitpatna/Interview-Assistant](https://gitter.im/dsciitpatna/Interview-Assistant)
+Discord - [https://discord.gg/YFMd3CW](https://discord.gg/YFMd3CW)
 
 ## Authors
 * **[Anubhav Jangra](https://github.com/love-san)** - Project Lead
