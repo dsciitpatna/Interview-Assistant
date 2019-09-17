@@ -31,5 +31,11 @@ Discord - [https://discord.gg/YFMd3CW](https://discord.gg/YFMd3CW)
 * **[Piyush Tiwary](https://github.com/aquarius31)** - Mentor
 * **[Badrinath Reddy](https://github.com/badrinath-reddy)** - Mentor
 
+## Research Paper Used:-
+http://cs229.stanford.edu/proj2017/final-reports/5243420.pdf
+
+## Dataset Used
+https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge#fer2013.tar.gz
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
